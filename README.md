@@ -13,28 +13,32 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-</p>
+<img src=".assets/python.png" height="40" width="40">
+<img src=".assets/java.png" height="40" width="40">
+<img src=".assets/golang.png" height="40" width="40">
+<img src=".assets/bash.png" height="40" width="40">
+<img src=".assets/docker.png" height="40" width="40">
+<img src=".assets/kubernetes.png" height="40" width="40">
+<img src=".assets/git.png" height="40" width="40">
+<img src=".assets/linux.png" height="40" width="40">
+<img src=".assets/mac.png" height="40" width="40">
+<img src=".assets/arduino.png" height="40" width="40">
 
 <br>
 
-<p align="left"> <a href="https://twitter.com/yashdhasmana" target="blank"><img src="https://img.shields.io/twitter/follow/yashdhasmana?logo=twitter&style=for-the-badge" alt="yashdhasmana" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/YashDhasmana)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/yash-dhasmana-1a7b43217/)
+
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashdhasmana&show_icons=true&locale=en&layout=compact" alt="yashdhasmana" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashdhasmana&show_icons=true&locale=en&layout=compact" alt="yashdhasmana" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdhasmana&" alt="yashdhasmana" /></p>
+<br>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdhasmana&" alt="yashdhasmana" />
 
 
 
@@ -42,3 +46,8 @@
 <p align="left">
 <a href="https://twitter.com/yashdhasmana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashdhasmana" height="30" width="40" /></a>
 </p> -->
+
+<!-- <p align="left"> <a href="https://twitter.com/yashdhasmana" target="blank"><img src="https://img.shields.io/twitter/follow/yashdhasmana?logo=twitter&style=for-the-badge" alt="yashdhasmana" /></a> </p> -->
+
+<!-- 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](ytlink) -->

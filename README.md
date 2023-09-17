@@ -13,16 +13,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src=".assets/python.png" height="40" width="40">
-<img src=".assets/java.png" height="40" width="40">
-<img src=".assets/golang.png" height="40" width="40">
-<img src=".assets/bash.png" height="40" width="40">
-<img src=".assets/docker.png" height="40" width="40">
-<img src=".assets/kubernetes.png" height="40" width="40">
-<img src=".assets/git.png" height="40" width="40">
-<img src=".assets/linux.png" height="40" width="40">
-<img src=".assets/mac.png" height="40" width="40">
-<img src=".assets/arduino.png" height="40" width="40">
+<p>
+    <img src=".assets/python.png" height="40" width="40">
+    <img src=".assets/java.png" height="40" width="40">
+    <img src=".assets/golang.png" height="40" width="40">
+    <img src=".assets/bash.png" height="40" width="40">
+    <img src=".assets/docker.png" height="40" width="40">
+    <img src=".assets/kubernetes.png" height="40" width="40">
+    <img src=".assets/git.png" height="40" width="40">
+    <img src=".assets/linux.png" height="40" width="40">
+    <img src=".assets/mac.png" height="40" width="40">
+    <img src=".assets/arduino.png" height="40" width="40">
+</p>
 
 <br>
 
